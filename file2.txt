@@ -1,1 +1,3 @@
-file2.txt
+This is my java interface
+
+I will write all the java interfaces here.
