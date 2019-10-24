@@ -1,1 +1,9 @@
-correcting code 
+correcting code
+
+class Hello(String args[])
+{
+public static void main()
+{
+System.Out.Println();
+}
+}
