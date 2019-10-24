@@ -4,6 +4,11 @@ class Hello(String args[])
 {
 public static void main()
 {
-System.Out.Println();
+System.Out.Println("this is new modified file");
 }
+public static void main()
+{
+System.Out.Println("this is copy of modified file");
+}
+
 }
